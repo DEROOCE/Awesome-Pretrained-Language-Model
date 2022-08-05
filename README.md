@@ -30,9 +30,17 @@ Group by companies and organizations.
   * [More PLMs are coming ...](#more-plms-are--coming-)
 
 
+
+## Al21 Labs
+
+* Jurassic-1
+  * [JURASSIC-1: TECHNICAL DETAILS AND EVALUATION](https://uploads-ssl.webflow.com/60fd4503684b466578c0d307/61138924626a6981ee09caf6_jurassic_tech_paper.pdf) ![paper](https://img.shields.io/badge/-paper-lightgrey?style=flat)
+  * [github repo](https://github.com/ai21labs/lm-evaluation) ![github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
+
+
 ## Alibaba 
 
-* PLUG
+* PLUG (**P**re-training for **L**anguage **U**nderstanding and **G**eneration))
   *  [超大规模中文生成](https://nlp.aliyun.com/portal#/plug) ![demo](https://img.shields.io/badge/-demo-blue?style=flat)
 
 ## Amazon 
@@ -41,7 +49,7 @@ Group by companies and organizations.
   * [Alexa Teacher Model: Pretraining and Distilling Multi-Billion-Parameter Encoders for Natural Language Understanding Systems](https://arxiv.org/abs/2206.07808) ![paper](https://img.shields.io/badge/-paper-lightgrey?style=flat)
   * AlexaTM 20B
     * [AlexaTM 20B: Few-Shot Learning Using a Large-Scale Multilingual Seq2Seq Model](https://arxiv.org/abs/2208.01448)  ![paper](https://img.shields.io/badge/-paper-lightgrey?style=flat)
-  * [github repo](https://github.com/amazon-research/alexa-teacher-models)![github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
+  * [github repo](https://github.com/amazon-research/alexa-teacher-models) ![github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
  (model hasn't been publicly released yet, stay tuned!)
 
 ## Baidu 
@@ -97,7 +105,12 @@ Group by companies and organizations.
 ## BigSicence 
 
 * T0 series
+  * [Multitask Prompted Training Enables Zero-Shot Task Generalization
+](https://arxiv.org/abs/2110.08207) ![paper](https://img.shields.io/badge/-paper-lightgrey?style=flat)
+  * [Hugging Face 🤗](https://huggingface.co/bigscience/T0) 
+  * [github repo](https://github.com/bigscience-workshop/t-zero) ![github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
 * BLOOM 
+  * [Hugging Face 🤗](https://huggingface.co/bigscience/bloom)
 
 
  
@@ -106,35 +119,65 @@ Group by companies and organizations.
 ## DeepMind 
 
 * Gopher 
+  * [Scaling Language Models: Methods, Analysis & Insights from Training Gopher](https://arxiv.org/abs/2112.11446) ![paper](https://img.shields.io/badge/-paper-lightgrey?style=flat)
 * Chinchilla
-* AlphaCode 
+  * [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556) ![paper](https://img.shields.io/badge/-paper-lightgrey?style=flat)
 * Retro
+  * [Improving language models by retrieving from trillions of tokens](https://arxiv.org/abs/2112.04426) ![paper](https://img.shields.io/badge/-paper-lightgrey?style=flat)
+  * [github repo](https://github.com/lucidrains/RETRO-pytorch) ![github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white) (Non-offical implementation)
+
 
 
  
 ## EleutherAI
 
+[Hugging Face 🤗](https://huggingface.co/EleutherAI)
+
 * GPT-Neo
+  * [github repo](https://github.com/EleutherAI/gpt-neo/) ![github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white) 
 * GPT-J
+  * [github repo](https://github.com/kingoflolz/mesh-transformer-jax/) ![github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white) 
 * GPT-NeoX 
+  * [github repo](https://github.com/EleutherAI/gpt-neox) ![github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
+
 
 
  
 ## Facebook (Meta)
 
 * XGLM
-* MOE LM 
+  * [Few-shot Learning with Multilingual Language Models](https://arxiv.org/abs/2112.10668) ![paper](https://img.shields.io/badge/-paper-lightgrey?style=flat)
+  * [Hugging Face 🤗](https://huggingface.co/facebook/xglm-7.5B)
 * XLM-R 
+  * [Unsupervised Cross-lingual Representation Learning at Scale](https://arxiv.org/abs/1911.02116) ![paper](https://img.shields.io/badge/-paper-lightgrey?style=flat)
+  * [github repo](https://github.com/facebookresearch/XLM) ![github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
+  * [Hugging Face 🤗](https://huggingface.co/xlm-roberta-base)
 * M2M-100
+  * [Beyond English-Centric Multilingual Machine Translation](https://arxiv.org/abs/2010.11125) ![paper](https://img.shields.io/badge/-paper-lightgrey?style=flat)
+  * [github page](https://github.com/facebookresearch/fairseq/blob/main/examples/m2m_100/README.md) ![github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
+  * [Hugging Face 🤗](https://huggingface.co/facebook/m2m100_418M)
 * Blender
+  * [Recipes for building an open-domain chatbot](https://arxiv.org/abs/2004.13637) ![paper](https://img.shields.io/badge/-paper-lightgrey?style=flat)
+  * [Internet-Augmented Dialogue Generation](https://arxiv.org/abs/2107.07566) ![paper](https://img.shields.io/badge/-paper-lightgrey?style=flat)
+  * [Beyond Goldfish Memory: Long-Term Open-Domain Conversation](https://arxiv.org/abs/2107.07567) ![paper](https://img.shields.io/badge/-paper-lightgrey?style=flat)
+  * [github repo](https://github.com/facebookresearch/ParlAI) ![github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
+  * [Hugging Face 🤗](https://huggingface.co/facebook/blenderbot-3B)
 * OPT
+  * [OPT: Open Pre-trained Transformer Language Models](https://arxiv.org/abs/2205.01068) ![paper](https://img.shields.io/badge/-paper-lightgrey?style=flat)
+  * [github repo](https://github.com/facebookresearch/metaseq) ![github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
+  * [Hugging Face 🤗](https://huggingface.co/facebook/opt-350m)
+  * [Request access to OPT-175B](https://docs.google.com/forms/d/e/1FAIpQLSe4IP4N6JkCEMpCP-yY71dIUPHngVReuOmQKDEI1oHFUaVg7w/viewform)
 * NLLB 
+  * [No Language Left Behind: Scaling Human-Centered Machine Translation](https://scontent-lax3-1.xx.fbcdn.net/v/t39.8562-6/292295068_402295381932691_8903854229220968087_n.pdf?_nc_cat=102&ccb=1-7&_nc_sid=ad8a9d&_nc_ohc=hNcSHrgRXoYAX-c47WB&_nc_ht=scontent-lax3-1.xx&oh=00_AT9viWtexbgbbP0pFK0fotG86Hoj-9rvkkCVV8aC38ifZw&oe=62F21993) ![paper](https://img.shields.io/badge/-paper-lightgrey?style=flat)
+  * [github repo](https://github.com/facebookresearch/fairseq/tree/nllb/) ![github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
+  * [Hugging Face 🤗](https://huggingface.co/facebook/nllb-200-distilled-600M)
+
 
 ## Fudan University
 
 * CPT
   *   [CPT: A Pre-Trained Unbalanced Transformer for Both Chinese Language Understanding and Generation](https://arxiv.org/abs/2109.05729) ![paper](https://img.shields.io/badge/-paper-lightgrey?style=flat)
-  *  [github repo](https://github.com/fastnlp/CPT) ![github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
+  *  [github repo](https://github.com/fastnlp/CPT) ![github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white) 
 
  
 ## Google 
