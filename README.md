@@ -144,7 +144,9 @@ Group by companies and organizations.
   * [Recipes for building an open-domain chatbot](https://arxiv.org/abs/2004.13637) ![paper](https://img.shields.io/badge/-paper-lightgrey?style=flat)
   * [Internet-Augmented Dialogue Generation](https://arxiv.org/abs/2107.07566) ![paper](https://img.shields.io/badge/-paper-lightgrey?style=flat)
   * [Beyond Goldfish Memory: Long-Term Open-Domain Conversation](https://arxiv.org/abs/2107.07567) ![paper](https://img.shields.io/badge/-paper-lightgrey?style=flat)
+  * [BlenderBot 3: a deployed conversational agent that continually learns to responsibly engage](https://arxiv.org/abs/2208.03188) ![paper](https://img.shields.io/badge/-paper-lightgrey?style=flat)
   * [github repo](https://github.com/facebookresearch/ParlAI) ![github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
+  * [BlenderBot A CONVERSATIONAL AI PROTOTYPE](https://blenderbot.ai/) ![demo](https://img.shields.io/badge/-demo-blue?style=flat)
   * [Hugging Face 🤗](https://huggingface.co/facebook/blenderbot-3B)
 * OPT
   * [OPT: Open Pre-trained Transformer Language Models](https://arxiv.org/abs/2205.01068) ![paper](https://img.shields.io/badge/-paper-lightgrey?style=flat)
@@ -202,20 +204,13 @@ Group by companies and organizations.
   * [Solving Quantitative Reasoning Problems with Language Models](https://arxiv.org/abs/2206.14858) ![paper](https://img.shields.io/badge/-paper-lightgrey?style=flat)
   * [Minerva SAMPLE EXPLORER](https://minerva-demo.github.io/#category=Algebra&index=1) ![demo](https://img.shields.io/badge/-demo-blue?style=flat)
 
-
-
 ## HIT & iFLYTEK
-
 
 * PERT:
   * [PERT: Pre-training BERT with Permuted Language Model](https://arxiv.org/abs/2203.06906) ![paper](https://img.shields.io/badge/-paper-lightgrey?style=flat)
   * [github repo](https://github.com/ymcui/PERT) ![github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
 
-
 >  [哈工大讯飞联合实验室: Joint Laboratory of HIT and iFLYTEK Research (HFL)](https://hfl-rc.com/).
-
-
-
 
 ## Huawei
 
@@ -230,7 +225,6 @@ Group by companies and organizations.
 * NEZHA (哪吒) 
   * [NEZHA: Neural Contextualized Representation for Chinese Language Understanding](https://arxiv.org/abs/1909.00204) ![paper](https://img.shields.io/badge/-paper-lightgrey?style=flat)
 
-
 > [Huawei-Noah offical github repo for Pretrained-Language Model](https://github.com/huawei-noah/Pretrained-Language-Model). ![github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
 
 ## Inspur
@@ -238,9 +232,6 @@ Group by companies and organizations.
 * Yuan 1.0 
   * [Yuan 1.0: Large-Scale Pre-trained Language Model in Zero-Shot and Few-Shot Learning](https://arxiv.org/abs/2110.04725) ![paper](https://img.shields.io/badge/-paper-lightgrey?style=flat)
   * [github repo](https://github.com/Shawn-Inspur/Yuan-1.0) ![github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
-
-
-
 
 ## IDEA
 
@@ -282,8 +273,7 @@ Group by companies and organizations.
   * [GODEL: Large-Scale Pre-Training for Goal-Directed Dialog](https://www.microsoft.com/en-us/research/uploads/prod/2022/05/2206.11309.pdf) ![paper](https://img.shields.io/badge/-paper-lightgrey?style=flat)
   * [github repo](https://github.com/microsoft/GODEL) ![github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
 * METRO
-  * [METRO: Efficient Denoising Pretraining of Large Scale Autoencoding Language Models with Model Generated Signals](https://arxiv.org/abs/2204.06644)
-
+  * [METRO: Efficient Denoising Pretraining of Large Scale Autoencoding Language Models with Model Generated Signals](https://arxiv.org/abs/2204.06644) ![paper](https://img.shields.io/badge/-paper-lightgrey?style=flat)
 
 ## Nvidia
 
@@ -307,7 +297,6 @@ Group by companies and organizations.
 * Codex 
   * [Evaluating Large Language Models Trained on Code](https://arxiv.org/abs/2107.03374) ![paper](https://img.shields.io/badge/-paper-lightgrey?style=flat)
 
-
 ## OPPO
 
 * OBERT 
@@ -328,8 +317,6 @@ Group by companies and organizations.
     * [github repo](https://github.com/THUDM/GLM-130B) ![github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
     * [demo for GLM-130B](https://huggingface.co/spaces/THUDM/GLM-130B) ![demo](https://img.shields.io/badge/-demo-blue?style=flat)
 
-
-
 > THUDM refers to "Data Mining Research Group at Tsinghua University".
 
 * Tsinghua AI
@@ -343,7 +330,6 @@ Group by companies and organizations.
       * [CPM-2: Large-scale cost-effective pre-trained language models](https://www.sciencedirect.com/science/article/pii/S2666651021000310) ![paper](https://img.shields.io/badge/-paper-lightgrey?style=flat)
       * [github repo](https://github.com/TsinghuaAI/CPM-2-Pretrain) ![github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
       * [启智 AI协作平台](https://git.openi.org.cn/BAAI/WuDao-Model/src/branch/master/CPM) ![website](https://img.shields.io/badge/-website-9cf?style=flat)
-
 
 * THU-CoAI
   * EVA family
@@ -363,7 +349,6 @@ Group by companies and organizations.
   * GLM 
     * [GLM: General Language Model Pretraining with Autoregressive Blank Infilling](https://arxiv.org/abs/2103.10360)
     * [启智 AI协作平台](https://git.openi.org.cn/BAAI/WuDao-Model/src/branch/master/GLM) ![website](https://img.shields.io/badge/-website-9cf?style=flat)
-
 
 ## More PLMs are  coming ...
 
