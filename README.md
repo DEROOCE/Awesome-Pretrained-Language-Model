@@ -6,28 +6,32 @@ Pretrained Language Models (PLMs) have been achieved great success over  many NL
 
 Group by companies and organizations.
 
-* [Al21 Labs](#al21-labs)
-* [Alibaba](#alibaba)
-* [Amazon](#amazon)
-* [Baidu](#baidu)
-* [BigSicence](#bigsicence)
-* [DeepMind](#deepmind)
-* [EleutherAI](#eleutherai)
-* [Meta (Facebook)](#meta-facebook)
-* [Fudan University](#fudan-university)
-* [Google](#google)
-* [HIT & iFLYTEK](#hit--iflytek)
-* [Huawei](#huawei)
-* [Inspur](#inspur)
-* [JD (JINGDONG)](#jd-jingdong)
-* [Langboat](#langboat)
-* [Microsoft](#microsoft)
-* [Nvidia](#nvidia)
-* [OpenAI](#openai)
-* [OPPO](#oppo)
-* [Tencent](#tencent)
-* [THU (Tsinghua) & BAAI (Beijing)](#thu-tsinghua--baai-beijing)
-* [More PLMs are coming ...](#more-plms-are--coming-)
+- [Awesome Pretrained Language Models ![Awesome](https://awesome.re)](#awesome-pretrained-language-models-)
+- [Lists of Language Models](#lists-of-language-models)
+  - [Al21 Labs](#al21-labs)
+  - [Alibaba](#alibaba)
+  - [Amazon](#amazon)
+  - [Baidu](#baidu)
+  - [BigSicence](#bigsicence)
+  - [DeepMind](#deepmind)
+  - [EleutherAI](#eleutherai)
+  - [Meta (Facebook)](#meta-facebook)
+  - [Fudan University](#fudan-university)
+  - [Google](#google)
+  - [HIT & iFLYTEK](#hit--iflytek)
+  - [Huawei](#huawei)
+  - [Inspur](#inspur)
+  - [IDEA](#idea)
+  - [JD (JINGDONG)](#jd-jingdong)
+  - [Langboat](#langboat)
+  - [Microsoft](#microsoft)
+  - [Nvidia](#nvidia)
+  - [OpenAI](#openai)
+  - [OPPO](#oppo)
+  - [Tencent](#tencent)
+  - [THU (Tsinghua) & BAAI (Beijing)](#thu-tsinghua--baai-beijing)
+  - [More PLMs are  coming ...](#more-plms-are--coming-)
+- [Claims](#claims)
 
 ## Al21 Labs
 
@@ -157,6 +161,11 @@ Group by companies and organizations.
   * [No Language Left Behind: Scaling Human-Centered Machine Translation](https://scontent-lax3-1.xx.fbcdn.net/v/t39.8562-6/292295068_402295381932691_8903854229220968087_n.pdf?_nc_cat=102&ccb=1-7&_nc_sid=ad8a9d&_nc_ohc=hNcSHrgRXoYAX-c47WB&_nc_ht=scontent-lax3-1.xx&oh=00_AT9viWtexbgbbP0pFK0fotG86Hoj-9rvkkCVV8aC38ifZw&oe=62F21993) ![paper](https://img.shields.io/badge/-paper-lightgrey?style=flat)
   * [github repo](https://github.com/facebookresearch/fairseq/tree/nllb/) ![github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
   * [Hugging Face 🤗](https://huggingface.co/facebook/nllb-200-distilled-600M)
+* Altas
+  * [Few-shot Learning with Retrieval Augmented Language Models](https://arxiv.org/abs/2208.03299) ![paper](https://img.shields.io/badge/-paper-lightgrey?style=flat)
+* PEER
+  * [PEER: A Collaborative Language Model](https://arxiv.org/abs/2208.11663) ![paper](https://img.shields.io/badge/-paper-lightgrey?style=flat)
+
 
 ## Fudan University
 
