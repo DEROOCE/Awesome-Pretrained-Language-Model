@@ -212,6 +212,12 @@ Group by companies and organizations.
 * Minerva 
   * [Solving Quantitative Reasoning Problems with Language Models](https://arxiv.org/abs/2206.14858) ![paper](https://img.shields.io/badge/-paper-lightgrey?style=flat)
   * [Minerva SAMPLE EXPLORER](https://minerva-demo.github.io/#category=Algebra&index=1) ![demo](https://img.shields.io/badge/-demo-blue?style=flat)
+* Flan-PaLM 
+  * [Scaling Instruction-Finetuned Language Models](https://arxiv.org/abs/2210.11416) ![paper](https://img.shields.io/badge/-paper-lightgrey?style=flat) 
+  * [Flan-T5 checkpoints](https://github.com/google-research/t5x/blob/main/docs/models.md#flan-t5-checkpoints) ![github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
+  
+
+
 
 ## HIT & iFLYTEK
 
@@ -363,7 +369,7 @@ Group by companies and organizations.
 
 🔥Coming soon!🔥
 
---- 
+---
 
 # Claims
 
